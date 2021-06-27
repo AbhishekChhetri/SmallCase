@@ -1,0 +1,8 @@
+com\page\Amazon.class
+com\runner\EcomRunner$testrunner.class
+com\elements\ElementsOfWebFlipkart.class
+com\stepdefinations\AmazonStepDef.class
+com\stepdefinations\FlipkartStepDef.class
+com\elements\ElementsOfWebAmazon.class
+com\page\Flipkart.class
+com\runner\EcomRunner.class
